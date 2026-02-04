@@ -33,4 +33,4 @@ jobs:
         app-name: advertising-license-mohkw
         slot-name: advl-test
         publish-profile: ${{ secrets.AZURE_WEBAPP_PUBLISH_PROFILE_TEST }}
-        package: target/boardgame.jar
+        package: target/database_service_project-0.0.7.jar
